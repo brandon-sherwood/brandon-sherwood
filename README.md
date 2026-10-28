@@ -37,7 +37,7 @@ My graduate and personal projects include:
 
 ## About My Repositories
 
-Some graduate coursework repositories are kept private to maintain academic integrity. Public repositories and portfolio projects highlight representative work, and I'm happy to discuss private coursework, design decisions, methods, and results with recruiters or hiring teams.
+Some graduate coursework repositories are kept private to maintain academic integrity. Public repositories and portfolio projects highlight representative work, and I'm happy to discuss private coursework, design decisions, methods, and results.
 
 ## Current Focus
 
