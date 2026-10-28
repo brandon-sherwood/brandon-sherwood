@@ -37,8 +37,8 @@ My graduate and personal projects include:
 
 ## About My Repositories
 
-Some graduate coursework repositories are kept private to maintain academic integrity. Public repositories and portfolio projects highlight representative work, and I'm happy to discuss private coursework, design decisions, methods, and results.
+Some graduate coursework repositories are kept private to maintain academic integrity. Public repositories and project summaries highlight representative work across data, machine learning, software development, and computational problem solving.
 
-## Current Focus
+Current Focus
 
-I'm currently completing my Master of Computer Science at Arizona State University with a focus on **Artificial Intelligence / Machine Learning and Big Data**, while building a portfolio aimed at transitioning into data, AI/ML, software engineering, or related technical roles.
+I'm currently completing my Master of Computer Science at Arizona State University with a focus on Artificial Intelligence / Machine Learning and Big Data. My current work includes data analysis, machine learning, database systems, intelligent systems, and software development, with an emphasis on building practical projects alongside the theoretical foundations of computer science.
